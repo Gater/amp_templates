@@ -3,7 +3,7 @@
         "UpdateStageName": "",
         "UpdateSourcePlatform": "Windows",
         "UpdateSource": "Executable",
-        "UpdateSourceData": "bin\\DCS_updater.exe",
+        "UpdateSourceData": "{{$FullRootDir}}serverfiles\\bin\\DCS_updater.exe",
         "UpdateSourceArgs": "--quiet update",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
