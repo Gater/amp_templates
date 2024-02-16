@@ -3,7 +3,7 @@
         "UpdateStageName": "",
         "UpdateSourcePlatform": "Windows",
         "UpdateSource": "Executable",
-        "UpdateSourceData": "server\\bin\\DCS_updater.exe",
+        "UpdateSourceData": "serverfiles\\bin\\DCS_updater.exe",
         "UpdateSourceArgs": "--quiet update",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
