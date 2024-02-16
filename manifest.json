@@ -1,11 +1,9 @@
 {
-    "id": "ddd131b2-740f-4ff3-87cf-50c046d23a86",
-    "authors": [
-        "Gater - Made with AMP Config Generator"
-    ],
-    "origin": "https://github.com/Gater - Made with AMP Config Generator/AMPTemplates.git",
-    "url": "https://github.com/Gater - Made with AMP Config Generator/AMPTemplates",
-    "imagefile": "",
-    "prefix": "Gater - Made with AMP Config Generator",
-    "repotype": "AppTemplates"
+	"id": "ddd131b2-740f-4ff3-87cf-50c046d23a86",
+	"authors": ["Gater - Made with AMP Config Generator"],
+	"origin": "https://github.com/Gater/amp_templates.git",
+	"url": "https://github.com/Gater/amp_template",
+	"imagefile": "",
+	"prefix": "",
+	"repotype": "AppTemplates"
 }
