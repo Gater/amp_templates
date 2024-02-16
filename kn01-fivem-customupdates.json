@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "ExtractArchive",
+        "UpdateSourceArgs": "C:\\AMPDatastore\\InstallFiles\\FiveM\\FiveM.zip",
+        "UpdateSourceTarget": "./server-bin",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
