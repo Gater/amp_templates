@@ -1,0 +1,16 @@
+[
+    {
+        "Protocol": "TCP",
+        "Port": "8088",
+        "Name": "WebUI",
+        "Description": "Port used for main game traffic",
+        "Ref": "WebUI"
+    },
+    {
+        "Protocol": "Both",
+        "Port": "10308",
+        "Name": "Main Game Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "MainGamePort"
+    }
+]
